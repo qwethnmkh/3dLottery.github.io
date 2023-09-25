@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>3D Lottery Calculator</title>
